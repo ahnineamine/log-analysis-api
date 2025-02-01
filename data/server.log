@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1674921110.0,
+    "level": "INFO",
+    "message": "Server started successfully",
+    "metadata": {
+      "service": "web-server",
+      "host": "api.example.com"
+    }
+  },
+  {
+    "timestamp": 1674921135.5,
+    "level": "WARN",
+    "message": "High memory usage detected",
+    "metadata": {
+      "memory_usage": "85%",
+      "container_id": "abc123"
+    }
+  }
+]

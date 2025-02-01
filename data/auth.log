@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": 1674921200.2,
+    "level": "INFO",
+    "message": "User login successful",
+    "metadata": {
+      "user_id": "7894",
+      "ip_address": "192.168.1.45"
+    }
+  },
+  {
+    "timestamp": 1674921212.8,
+    "level": "ERROR",
+    "message": "Failed login attempt",
+    "metadata": {
+      "user_id": "1234",
+      "ip_address": "192.168.1.100",
+      "reason": "Incorrect password"
+    }
+  }
+]

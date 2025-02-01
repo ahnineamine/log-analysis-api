@@ -1,0 +1,16 @@
+# dune exec log_analysis_api
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/amineahnine/.cache/dune/db
+# Workspace root: /Users/amineahnine/Desktop/3110/log_analysis_api
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/amineahnine/.opam/cs3110-2024fa/bin/ocamlc.opt -config > /var/folders/8j/v_hd0v0s1j7bx_y4nbzr38rh0000gp/T/dune_476019_output

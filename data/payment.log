@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1674921305.4,
+    "level": "INFO",
+    "message": "Payment processed successfully",
+    "metadata": {
+      "user_id": "5678",
+      "transaction_id": "TX12345",
+      "amount": "49.99"
+    }
+  },
+  {
+    "timestamp": 1674921305.4,
+    "level": "INFO",
+    "message": "Payment processed successfully",
+    "metadata": {
+      "user_id": "5280",
+      "transaction_id": "TX92345",
+      "amount": "19.99"
+    }
+  },
+  {
+    "timestamp": 1674921352.6,
+    "level": "ERROR",
+    "message": "Payment failed",
+    "metadata": {
+      "user_id": "6789",
+      "transaction_id": "TX67890",
+      "reason": "Insufficient funds"
+    }
+  }
+]

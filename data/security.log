@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": 1674921400.7,
+    "level": "WARN",
+    "message": "Suspicious activity detected",
+    "metadata": {
+      "user_id": "4455",
+      "ip_address": "10.0.0.12",
+      "action": "Multiple failed login attempts"
+    }
+  },
+  {
+    "timestamp": 1674921455.3,
+    "level": "ERROR",
+    "message": "Unauthorized API access attempt",
+    "metadata": {
+      "user_id": "NULL",
+      "endpoint": "/admin/delete",
+      "http_status": "403"
+    }
+  }
+]

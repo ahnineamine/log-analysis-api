@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": 1674921250.0,
+    "level": "INFO",
+    "message": "Database connection established",
+    "metadata": {
+      "db": "PostgreSQL",
+      "host": "db.example.com"
+    }
+  },
+  {
+    "timestamp": 1674921288.9,
+    "level": "ERROR",
+    "message": "Query execution failed",
+    "metadata": {
+      "query": "SELECT * FROM users",
+      "error_code": "500",
+      "db": "PostgreSQL"
+    }
+  }
+]

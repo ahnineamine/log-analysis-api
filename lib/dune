@@ -1,0 +1,5 @@
+(library
+(libraries logs dream yojson unix)
+(modules command schema logging api log)
+(preprocess (pps lwt_ppx))
+ (name log_analysis_api))

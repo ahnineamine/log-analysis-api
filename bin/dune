@@ -1,0 +1,4 @@
+(executable
+ (public_name log_analysis_api)
+ (name main)
+ (libraries log_analysis_api))

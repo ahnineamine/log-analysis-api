@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/log_analysis_api/META"
+  "_build/install/default/lib/log_analysis_api/dune-package"
+  "_build/install/default/lib/log_analysis_api/opam"
+]
+bin: [
+  "_build/install/default/bin/log_analysis_api"
+]
