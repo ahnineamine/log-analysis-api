@@ -5,11 +5,11 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github ahnineamine/log-analysis-api))
 
-(authors "Author Name <author@example.com>")
+(authors "Author Name <ahnineamine6@gmail.com>")
 
-(maintainers "Maintainer Name <maintainer@example.com>")
+(maintainers "Maintainer Name <ahnineamine6@gmail.com>")
 
 (license LICENSE)
 

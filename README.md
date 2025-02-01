@@ -32,7 +32,7 @@ opam install dream lwt yojson lwt_ppx
 ## Installation and Running
 ### Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/log-analysis-api.git
+git clone https://github.com/ahnineamine/log-analysis-api.git
 cd log-analysis-api
 ```
 ### Build the project:  
